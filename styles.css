@@ -31,6 +31,11 @@ body {
     margin-bottom: 10px;
 }
 
+select {
+    display: block
+    /* text-align: center; */
+}
+
 .response-container {
     margin-top: 20px;
     text-align: center;
@@ -48,4 +53,8 @@ button {
 
 button:hover {
     background-color: #0056b3;
+}
+
+p {
+    text-align: left;
 }
